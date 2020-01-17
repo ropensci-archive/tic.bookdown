@@ -1,8 +1,8 @@
 # tic.bookdown
 
 <!-- badges: start -->
-[![Travis build status](https://travis-ci.org/ropenscilabs/tic.bookdown.svg?branch=master)](https://travis-ci.org/ropenscilabs/tic.bookdown)
-[![Build status](https://ci.appveyor.com/api/projects/status/uqjyx4mrksnul9en/branch/master?svg=true)](https://ci.appveyor.com/project/ropensci/tic-bookdown/branch/master)
+[![Travis build status](https://img.shields.io/travis/ropenscilabs/tic.bookdown/master?logo=travis&style=flat-square&label=Linux)](https://travis-ci.org/ropenscilabs/tic.bookdown)
+[![Build status](https://ci.appveyor.com/api/projects/status/o36uc2jwl9f7k5a3?svg=true)](https://ci.appveyor.com/project/ropenscilabs/tic-bookdown)
 [![Coverage Status](https://codecov.io/gh/ropenscilabs/tic.bookdown/branch/master/graph/badge.svg)](https://codecov.io/github/ropenscilabs/tic.bookdown?branch=master)
 <!-- badges: end -->
 
